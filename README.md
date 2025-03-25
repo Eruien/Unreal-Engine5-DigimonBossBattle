@@ -1,4 +1,5 @@
 # DigimonBossBattle
+<img src="Image/DigimonBossBattle.png" width="600" height="350"/>
 * 플레이 영상 : <https://www.youtube.com/watch?v=4o3_wj71FlQ>
 * 다운로드 : <https://naver.me/FV7A8aad>
 ***
@@ -11,7 +12,3 @@
 * Q : 포션
 * 마우스 좌클릭 : 공격
 * 마우스 우클릭 : 대쉬
-# Graphics Pipeline
-![Pipeline Image](Image/DigimonBossBattle.png)
-# Pipeline Class
-![Pipeline Class](Image/InGame.png)
